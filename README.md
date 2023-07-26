@@ -1,2 +1,2 @@
-# ccultivate
-用于记录个人c语言训练过程
+# c cultivate
+记录个人c语言训练过程
